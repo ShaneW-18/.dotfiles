@@ -77,7 +77,7 @@ keys = [
     Key([], "XF86AudioMute",lazy.spawn("amixer set Master toggle")),
     Key([mod], "escape", lazy.shutdown(), desc="Shutdown Qtile"),
     #Open Programs
-    Key([mod], "p", lazy.spawn("code /home/shane/.dotfiles/.config/qtile/"), desc="edit binds"),
+    Key([mod], "p", lazy.spawn("code /home/shane/.config/qtile/"), desc="edit binds"),
     Key([mod, "shift"], "d", lazy.spawn("discord"), desc="launch discord"),
     Key([mod, "shift"], "f", lazy.spawn("firefox"), desc="launch firefox"),
     Key([mod, "shift"], "t", lazy.spawn("jetbrains-toolbox"), desc="launch jetbrains-toolbox"),
