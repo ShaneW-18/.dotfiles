@@ -4,3 +4,4 @@
 !.gitignore
 # but do not ignore
 !qtile
+!xfce4
