@@ -1,8 +1,0 @@
-[Configuration]
-ColorPalette=rgb(56,60,74);rgb(202,78,108);rgb(82,178,112);rgb(246,139,62);rgb(82,148,226);rgb(137,92,130);rgb(78,197,202);rgb(124,129,140);rgb(85,98,112);rgb(254,159,159);rgb(138,203,158);rgb(213,214,90);rgb(146,187,237);rgb(173,133,167);rgb(137,217,220);rgb(238,232,213)
-ColorForeground=#eeeee8e8d5d5
-ColorBackground=#1b1b1c1c2222
-ColorCursor=#93a1a1
-ColorBold=#848585
-ColorBoldUseDefault=FALSE
-TabActivityColor=#dc322f
