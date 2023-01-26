@@ -1,0 +1,6 @@
+2023-01-24 17:59:46.547 [info] update#setState idle
+2023-01-24 17:59:47.544 [info] Starting extension host with pid 5129 (fork() took 78 ms).
+2023-01-24 18:00:16.552 [info] update#setState checking for updates
+2023-01-24 18:00:16.639 [info] update#setState idle
+2023-01-24 18:00:31.142 [info] Extension host with pid 5129 exited with code: null, signal: SIGTERM.
+2023-01-24 18:00:31.148 [error] CodeWindow: renderer process gone (reason: killed, code: 15)

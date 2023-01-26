@@ -1,0 +1,48 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Dev/Personal-Website">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Personal-Website – README.md" opened="true" projectWorkspaceId="2KI37KFaU6wipAJCGU6zZ51JKde">
+              <option name="activationTimestamp" value="1673648303609" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-223.8214.51" />
+              <option name="buildTimestamp" value="1671535305681" />
+              <frame x="414" y="117" width="1400" height="1000" extendedState="6" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1673648101364" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Dev/react-personal-website">
+          <value>
+            <RecentProjectMetaInfo frameTitle="react-personal-website – Home.js" opened="true" projectWorkspaceId="2KI3hKl8mFO6HKrwMFXOAFGcO8e">
+              <option name="activationTimestamp" value="1673752866103" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-223.8214.51" />
+              <option name="buildTimestamp" value="1671535283104" />
+              <frame x="552" y="345" width="1400" height="1004" extendedState="6" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1673727813910" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Dev/Geoguessr-AI">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Geoguessr-AI – main.py" opened="true" projectWorkspaceId="2KLoxvOhlscvc0ZAjq4Z9pRmdP4">
+              <option name="activationTimestamp" value="1673852957413" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-223.8214.51" />
+              <option name="buildTimestamp" value="1671535306905" />
+              <frame x="516" y="249" width="1400" height="1008" extendedState="6" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1673822154812" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/Dev/Geoguessr-AI" />
+  </component>
+</application>

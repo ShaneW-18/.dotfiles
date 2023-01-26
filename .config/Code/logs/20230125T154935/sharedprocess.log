@@ -1,0 +1,7 @@
+2023-01-25 15:49:37.378 [info] Starting worker process with pid 7189 (type: fileWatcher, window: 1).
+2023-01-25 16:17:44.198 [error] SharedProcess (worker, fileWatcher): Worker process with pid 7189 terminated by itself with code null, signal: SIGSEGV (type: fileWatcher, window: 1)
+2023-01-25 16:17:44.242 [info] Starting worker process with pid 12862 (type: fileWatcher, window: 1).
+2023-01-25 16:47:16.805 [error] SharedProcess (worker, fileWatcher): Worker process with pid 12862 terminated by itself with code null, signal: SIGSEGV (type: fileWatcher, window: 1)
+2023-01-25 16:47:16.850 [info] Starting worker process with pid 19821 (type: fileWatcher, window: 1).
+2023-01-25 17:46:57.046 [error] SharedProcess (worker, fileWatcher): Worker process with pid 19821 terminated by itself with code null, signal: SIGTRAP (type: fileWatcher, window: 1)
+2023-01-25 17:46:57.077 [info] Starting worker process with pid 25662 (type: fileWatcher, window: 1).

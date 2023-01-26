@@ -1,0 +1,179 @@
+2023-01-26 18:07:21.139 [info] Extension host with pid 9646 started
+2023-01-26 18:07:21.139 [info] Skipping acquiring lock for /home/shane/.config/Code/User/workspaceStorage/6364fa65aacf3ac04bc5f11d7c3bd7f2.
+2023-01-26 18:07:21.181 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2023-01-26 18:07:21.182 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2023-01-26 18:07:21.223 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-01-26 18:07:21.240 [info] Eager extensions activated
+2023-01-26 18:07:21.245 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-01-26 18:07:21.245 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+2023-01-26 18:07:21.246 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-01-26 18:07:21.246 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2023-01-26 18:07:21.246 [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+2023-01-26 18:07:21.318 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-01-26 18:08:42.438 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:ignore'
+2023-01-26 18:08:42.439 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:ignore'
+2023-01-26 18:13:43.352 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2023-01-26 18:13:43.448 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2023-01-26 18:13:44.050 [warning] [Decorations] CAPPING events from decorations provider vscode.git 357
+2023-01-26 18:15:44.714 [warning] [Decorations] CAPPING events from decorations provider vscode.git 357
+2023-01-26 18:15:45.873 [warning] [Decorations] CAPPING events from decorations provider vscode.git 357
+2023-01-26 18:17:33.751 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:33.751 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:33.751 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:33.751 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:33.751 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:33.751 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:33.751 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:33.751 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:33.752 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:33.752 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:33.752 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:33.752 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:33.752 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:33.752 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:33.752 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:33.752 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:33.752 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:33.752 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:33.752 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:33.752 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:33.752 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:33.752 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:33.752 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:33.752 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:33.752 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:33.752 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:33.752 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:33.752 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:33.752 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:33.752 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:33.752 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:33.752 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:33.752 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:33.752 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:33.752 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:33.752 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:33.752 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:33.752 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:34.753 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:34.759 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:34.761 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:34.761 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:34.762 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:34.763 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:34.763 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:34.764 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:34.764 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:34.765 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:34.765 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:34.766 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:34.766 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:34.766 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:34.767 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:34.767 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:34.767 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:34.768 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:34.768 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:34.769 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:34.769 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:34.769 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:34.769 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:34.770 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:34.770 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:34.770 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:34.771 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:34.771 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:34.772 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:34.772 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:34.772 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:34.772 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:34.772 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:34.772 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:34.774 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:34.774 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:34.775 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:34.776 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:34.844 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:34.845 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:34.845 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:34.845 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:34.845 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:34.845 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:34.845 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:34.845 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:34.845 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:34.845 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:34.845 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:34.845 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:34.845 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:34.845 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:34.845 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:34.845 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:34.845 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:34.845 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:34.845 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:34.845 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:34.845 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:34.845 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:34.845 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:34.845 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:34.845 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:34.845 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:34.845 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:34.845 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:34.845 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:34.845 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:34.845 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:34.845 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:34.845 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:34.845 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:34.845 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:34.845 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:34.845 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:34.845 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:35.845 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:35.846 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:35.851 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:35.851 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:35.851 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:35.852 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:35.852 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:35.852 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:35.852 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:35.852 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:35.852 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:35.852 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:35.852 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:35.852 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:35.853 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:35.853 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:35.853 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:35.853 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:35.853 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:35.853 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:35.853 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:35.853 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:35.853 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:35.854 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:35.854 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:35.854 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:35.854 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:35.854 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:35.854 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:35.854 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:35.854 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:35.854 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:35.854 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:35.855 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:35.855 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:35.855 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:35.855 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:17:35.855 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.config/.config/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:18:31.750 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.dotfiles/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:18:31.750 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.dotfiles/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:18:31.750 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.dotfiles/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:18:32.751 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.dotfiles/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:18:32.751 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.dotfiles/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:18:32.751 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/shane/.dotfiles/.config/.dotfiles/.config' is beyond a symbolic link\n","exitCode":128}
+2023-01-26 18:26:26.193 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4701
+2023-01-26 18:26:33.172 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4701

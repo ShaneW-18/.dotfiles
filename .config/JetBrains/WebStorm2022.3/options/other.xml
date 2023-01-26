@@ -1,0 +1,49 @@
+<application>
+  <component name="PropertyService">{
+  &quot;keyToString&quot;: {
+    &quot;CWM_LOGGING_VERSION&quot;: &quot;1&quot;,
+    &quot;FindSplitterProportion&quot;: &quot;0.33013332&quot;,
+    &quot;GeneralSettings.initiallyConfigured&quot;: &quot;true&quot;,
+    &quot;NonModalCommitCustomization.IsApplied&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.se.text.search&quot;: &quot;true&quot;,
+    &quot;appcds.runOnSecondStart&quot;: &quot;WS-223.8214.51-954884802d664bfa9f949991ad5f9bf213d11a2ce21e3fbae50acc9c5df65d05&quot;,
+    &quot;ask.about.ctrl.y.shortcut.v2&quot;: &quot;true&quot;,
+    &quot;bundled.plugins.list.saved.version&quot;: &quot;WS-223.8214.51&quot;,
+    &quot;evlsprt3.223&quot;: &quot;26&quot;,
+    &quot;file.gist.reindex.count&quot;: &quot;3&quot;,
+    &quot;fileTypeChangedCounter&quot;: &quot;1&quot;,
+    &quot;fontSizeToResetConsole&quot;: &quot;12.0&quot;,
+    &quot;fontSizeToResetEditor&quot;: &quot;12.0&quot;,
+    &quot;got.it.tooltip.terminal.smart_command_execution&quot;: &quot;1&quot;,
+    &quot;ide.memory.adjusted&quot;: &quot;true&quot;,
+    &quot;input.method.disabler.muted&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/shane/Dev/Geoguessr-AI&quot;,
+    &quot;previousColorScheme&quot;: &quot;_@user_Material Palenight&quot;,
+    &quot;registry.to.advanced.settings.migration.build&quot;: &quot;WS-223.8214.51&quot;,
+    &quot;tasks.pass.word.conversion.enforced&quot;: &quot;true&quot;,
+    &quot;ts.lib.d.ts.version&quot;: &quot;4.8.4&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;file.chooser.recent.files&quot;: [
+      &quot;/home/shane/Dev/Geoguessr-AI&quot;,
+      &quot;/home/shane/Dev/react-personal-website&quot;,
+      &quot;/home/shane/Dev/Personal-Website&quot;
+    ],
+    &quot;fileTypeDetectors&quot;: [
+      &quot;com.intellij.ide.scratch.ScratchFileServiceImpl$Detector&quot;,
+      &quot;com.intellij.docker.dockerFile.DockerFileTypeDetector&quot;,
+      &quot;com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector&quot;,
+      &quot;com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector&quot;,
+      &quot;com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector&quot;,
+      &quot;org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector&quot;
+    ]
+  }
+}</component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="react-personal-website-history1" project-path="$USER_HOME$/Dev/react-personal-website" last-access-time="1673727812650" />
+      <command-history-file filename="Geoguessr-AI-history1" project-path="$USER_HOME$/Dev/Geoguessr-AI" last-access-time="1673822153672" />
+      <command-history-file filename="Personal-Website-history" project-path="$USER_HOME$/Dev/Personal-Website" last-access-time="1673648280099" />
+    </command-history-files>
+  </component>
+</application>

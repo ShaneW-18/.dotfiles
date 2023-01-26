@@ -1,0 +1,82 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Copy">
+      <i c="1" l="1673764295027" />
+    </e>
+    <e n="$Delete">
+      <i c="2" l="1673729120637" />
+    </e>
+    <e n="$Undo">
+      <i c="2" l="1673650750290" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="37" l="1673752837330" />
+    </e>
+    <e n="EditorCopy">
+      <i c="2" l="1673729536383" />
+    </e>
+    <e n="EditorLeft">
+      <i c="14" l="1673728247381" />
+    </e>
+    <e n="EditorPaste">
+      <i c="3" l="1673650949173" />
+    </e>
+    <e n="EditorRight">
+      <i c="33" l="1673822472416" />
+    </e>
+    <e n="EditorTab">
+      <i c="1" l="1673650973701" />
+    </e>
+    <e n="Find">
+      <i c="1" l="1673651091632" />
+    </e>
+    <e n="Git.Branches">
+      <i c="4" l="1673764963546" />
+    </e>
+    <e n="Git.Log.Branches.Change.Branch.Filter">
+      <i c="1" l="1673763576035" />
+    </e>
+    <e n="MTOverrideAccent">
+      <i c="2" l="1673753465533" />
+    </e>
+    <e n="MTPalenightTheme">
+      <i c="1" l="1673753484233" />
+    </e>
+    <e n="RenameElement">
+      <i c="1" l="1673728194775" />
+    </e>
+    <e n="SaveAll">
+      <i c="11" l="1673729128915" />
+    </e>
+    <e n="SearchEverywhere">
+      <i c="2" l="1673650562057" />
+    </e>
+    <e n="TemplateProjectProperties">
+      <i c="1" l="1673752822982" />
+    </e>
+    <e n="ToggleLineBreakpoint">
+      <i c="1" l="1673728215467" />
+    </e>
+    <e n="Tree-scrollUpChangeSelection">
+      <i c="2" l="1673729118722" />
+    </e>
+    <e n="WelcomeScreen.OpenDirectoryProject">
+      <i c="3" l="1673752894880" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="1" l="1673753456213" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="2" l="1673822286983" />
+    </e>
+    <e n="com.mallowigi.idea.actions.accents.MTLavenderAccentAction">
+      <i c="1" l="1673753451631" />
+    </e>
+    <e n="git4idea.ui.branch.GitBranchPopupActions$LocalBranchActions$CheckoutAction">
+      <i c="2" l="1673764876085" />
+    </e>
+    <e n="git4idea.ui.branch.GitBranchPopupActions$RemoteBranchActions$CheckoutRemoteBranchAction">
+      <i c="2" l="1673764966902" />
+    </e>
+  </component>
+</application>

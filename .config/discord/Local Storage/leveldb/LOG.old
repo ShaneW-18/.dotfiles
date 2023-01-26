@@ -1,0 +1,12 @@
+2023/01/25-15:46:51.403 a1d Reusing MANIFEST /home/shane/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2023/01/25-15:46:51.403 a1d Recovering log #7
+2023/01/25-15:46:51.404 a1d Reusing old log /home/shane/.config/discord/Local Storage/leveldb/000007.log 
+2023/01/25-15:47:52.068 ad9 Level-0 table #11: started
+2023/01/25-15:47:52.073 ad9 Level-0 table #11: 19525 bytes OK
+2023/01/25-15:47:52.077 ad9 Delete type=0 #7
+2023/01/25-15:49:02.537 ad9 Level-0 table #13: started
+2023/01/25-15:49:02.557 ad9 Level-0 table #13: 1337026 bytes OK
+2023/01/25-15:49:02.562 ad9 Delete type=0 #10
+2023/01/25-17:48:17.972 ad9 Level-0 table #15: started
+2023/01/25-17:48:17.982 ad9 Level-0 table #15: 12612 bytes OK
+2023/01/25-17:48:17.987 ad9 Delete type=0 #12

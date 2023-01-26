@@ -1,0 +1,10 @@
+[Trace 20:57:46.625] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/shane/.config/rofi/basic/README.md
+[Trace 20:57:46.626] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/shane/.config/rofi/basic/README.md
+[Trace 20:57:46.627] Server: connection.languages.diagnostics.on: file:///home/shane/.config/rofi/basic/README.md
+[Trace 20:57:46.629] Server: connection.languages.diagnostics.on: file:///home/shane/.config/rofi/basic/README.md
+[Trace 20:57:46.663] DocumentSymbolProvider: provideDocumentSymbols — file:///home/shane/.config/rofi/basic/README.md 1
+[Debug 20:57:46.664] LinkProvider: compute - file:///home/shane/.config/rofi/basic/README.md
+[Debug 20:57:46.783] TableOfContentsProvider: create - file:///home/shane/.config/rofi/basic/README.md
+[Debug 20:57:46.841] MdFoldingProvider: provideFoldingRanges — file:///home/shane/.config/rofi/basic/README.md 1
+[Trace 20:58:29.476] VsCodeClientWorkspace: TextDocument.onDidClose: file:///home/shane/.config/rofi/basic/README.md
+[Trace 20:58:29.476] VsCodeClientWorkspace: deleteDocument: file:///home/shane/.config/rofi/basic/README.md

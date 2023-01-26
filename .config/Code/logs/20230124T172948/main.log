@@ -1,0 +1,5 @@
+2023-01-24 17:29:48.511 [info] update#setState idle
+2023-01-24 17:29:49.432 [info] Starting extension host with pid 1213 (fork() took 87 ms).
+2023-01-24 17:30:18.514 [info] update#setState checking for updates
+2023-01-24 17:30:18.594 [info] update#setState idle
+2023-01-24 17:33:23.447 [info] Extension host with pid 1213 exited with code: null, signal: SIGHUP.

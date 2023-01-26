@@ -1,0 +1,28 @@
+<application>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "DataSpell.InitialConfiguration": "true",
+    "NonModalCommitCustomization.IsApplied": "true",
+    "RunOnceActivity.se.text.search": "true",
+    "SettingsSearchHistory": "interp",
+    "appcds.runOnSecondStart": "DS-223.8214.61-f1b3db39ef1da51ad8def1164a1d58ff703d6310f7f789597e83311b4ccd9583",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "bundled.plugins.list.saved.version": "DS-223.8214.61",
+    "evlsprt3.223": "25",
+    "fileTypeChangedCounter": "1",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "13.0",
+    "gotit.previous.run": "DS-223.8214.61",
+    "input.method.disabler.muted": "true",
+    "previousColorScheme": "_@user_Darcula",
+    "registry.to.advanced.settings.migration.build": "DS-223.8214.61"
+  },
+  "keyToStringList": {
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+</application>

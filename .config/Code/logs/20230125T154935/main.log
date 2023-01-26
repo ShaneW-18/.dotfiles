@@ -1,0 +1,22 @@
+2023-01-25 15:49:35.447 [info] update#setState idle
+2023-01-25 15:49:36.581 [info] Starting extension host with pid 7145 (fork() took 84 ms).
+2023-01-25 15:50:05.451 [info] update#setState checking for updates
+2023-01-25 15:50:05.530 [info] update#setState idle
+2023-01-25 16:50:05.478 [info] update#setState checking for updates
+2023-01-25 16:50:05.800 [info] update#setState idle
+2023-01-25 17:50:05.507 [info] update#setState checking for updates
+2023-01-25 17:50:05.746 [info] update#setState idle
+2023-01-25 17:51:28.825 [info] Extension host with pid 7145 exited with code: null, signal: SIGHUP.
+2023-01-25 17:51:28.872 [error] CodeWindow: renderer process gone (reason: killed, code: 15)
+2023-01-25 17:51:29.097 [error] [uncaught exception in main]: Error: SharedProcess: renderer process gone (detail: killed, code: 15)
+2023-01-25 17:51:29.097 [error] Error: SharedProcess: renderer process gone (detail: killed, code: 15)
+    at /opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:82:67261
+    at d.invoke (/opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:19:145)
+    at v.deliver (/opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:19:2032)
+    at b.fire (/opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:19:1670)
+    at /opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:17:20702
+    at d.invoke (/opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:19:145)
+    at v.deliver (/opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:19:2032)
+    at b.fire (/opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:19:1670)
+    at EventEmitter.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:79:96733)
+    at EventEmitter.emit (node:events:538:35)

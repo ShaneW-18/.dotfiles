@@ -1,0 +1,24 @@
+2023/01/26-16:13:23.859 35e Reusing MANIFEST /home/shane/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2023/01/26-16:13:23.859 35e Recovering log #14
+2023/01/26-16:13:23.859 35e Reusing old log /home/shane/.config/discord/Local Storage/leveldb/000014.log 
+2023/01/26-16:15:42.025 36c Level-0 table #18: started
+2023/01/26-16:15:42.031 36c Level-0 table #18: 25602 bytes OK
+2023/01/26-16:15:42.035 36c Delete type=0 #14
+2023/01/26-16:15:42.035 36c Compacting 4@0 + 1@1 files
+2023/01/26-16:15:42.040 36c Generated table #19@0: 63 keys, 22195 bytes
+2023/01/26-16:15:42.040 36c Compacted 4@0 + 1@1 files => 22195 bytes
+2023/01/26-16:15:42.044 36c compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/01/26-16:15:42.044 36c Delete type=2 #8
+2023/01/26-16:15:42.044 36c Delete type=2 #13
+2023/01/26-16:15:42.044 36c Delete type=2 #15
+2023/01/26-16:15:42.044 36c Delete type=2 #11
+2023/01/26-16:15:42.044 36c Delete type=2 #18
+2023/01/26-16:17:24.572 36c Level-0 table #21: started
+2023/01/26-16:17:24.593 36c Level-0 table #21: 1343551 bytes OK
+2023/01/26-16:17:24.597 36c Delete type=0 #17
+2023/01/26-16:55:24.571 36c Level-0 table #23: started
+2023/01/26-16:55:24.581 36c Level-0 table #23: 20886 bytes OK
+2023/01/26-16:55:24.586 36c Delete type=0 #20
+2023/01/26-17:50:24.572 1f6c Level-0 table #25: started
+2023/01/26-17:50:24.584 1f6c Level-0 table #25: 13272 bytes OK
+2023/01/26-17:50:24.589 1f6c Delete type=0 #22
