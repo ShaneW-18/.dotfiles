@@ -1,0 +1,46 @@
+2023-01-27 01:06:15.905 [info] [perf] Render performance baseline is 50ms
+2023-01-27 01:41:05.662 [error] [Extension Host] [ERROR] [default] [2023-01-27T06:41:05.574Z] GitHub Copilot could not connect to server. Extension activation failed: "Git error"
+2023-01-27 01:41:05.663 [error] [Extension Host] [ERROR] [default] [2023-01-27T06:41:05.575Z] GitHub Copilot could not connect to server. Extension activation failed: "Git error"
+2023-01-27 01:41:05.664 [error] [Extension Host] [ERROR] [default] [2023-01-27T06:41:05.575Z] GitHub Copilot could not connect to server. Extension activation failed: "Git error"
+2023-01-27 01:41:05.664 [error] [Extension Host] [ERROR] [default] [2023-01-27T06:41:05.575Z] GitHub Copilot could not connect to server. Extension activation failed: "Git error"
+2023-01-27 01:41:05.665 [error] [Extension Host] [ERROR] [default] [2023-01-27T06:41:05.576Z] GitHub Copilot could not connect to server. Extension activation failed: "Git error"
+2023-01-27 01:41:05.666 [error] [Extension Host] [ERROR] [default] [2023-01-27T06:41:05.576Z] GitHub Copilot could not connect to server. Extension activation failed: "Git error"
+2023-01-27 01:41:05.666 [error] [Extension Host] [ERROR] [default] [2023-01-27T06:41:05.576Z] GitHub Copilot could not connect to server. Extension activation failed: "Git error"
+2023-01-27 01:41:05.666 [error] [Extension Host] [ERROR] [default] [2023-01-27T06:41:05.577Z] GitHub Copilot could not connect to server. Extension activation failed: "Git error"
+2023-01-27 01:41:05.668 [error] [Extension Host] [ERROR] [default] [2023-01-27T06:41:05.577Z] GitHub Copilot could not connect to server. Extension activation failed: "Git error"
+2023-01-27 01:41:05.669 [error] [Extension Host] [ERROR] [default] [2023-01-27T06:41:05.577Z] GitHub Copilot could not connect to server. Extension activation failed: "Git error"
+2023-01-27 01:41:05.669 [error] [Extension Host] [ERROR] [default] [2023-01-27T06:41:05.578Z] GitHub Copilot could not connect to server. Extension activation failed: "Git error"
+2023-01-27 01:41:05.670 [error] [Extension Host] [ERROR] [default] [2023-01-27T06:41:05.578Z] GitHub Copilot could not connect to server. Extension activation failed: "Git error"
+2023-01-27 01:41:05.670 [error] [Extension Host] [ERROR] [default] [2023-01-27T06:41:05.578Z] GitHub Copilot could not connect to server. Extension activation failed: "Git error"
+2023-01-27 01:41:05.671 [error] [Extension Host] [ERROR] [default] [2023-01-27T06:41:05.578Z] GitHub Copilot could not connect to server. Extension activation failed: "Git error"
+2023-01-27 01:41:05.671 [error] [Extension Host] [ERROR] [default] [2023-01-27T06:41:05.578Z] GitHub Copilot could not connect to server. Extension activation failed: "Git error"
+2023-01-27 01:41:05.672 [error] [Extension Host] [ERROR] [default] [2023-01-27T06:41:05.579Z] GitHub Copilot could not connect to server. Extension activation failed: "Git error"
+2023-01-27 01:41:05.672 [error] [Extension Host] [ERROR] [default] [2023-01-27T06:41:05.579Z] GitHub Copilot could not connect to server. Extension activation failed: "Git error"
+2023-01-27 01:41:05.673 [error] [Extension Host] [ERROR] [default] [2023-01-27T06:41:05.579Z] GitHub Copilot could not connect to server. Extension activation failed: "Git error"
+2023-01-27 01:41:05.673 [error] [Extension Host] [ERROR] [default] [2023-01-27T06:41:05.579Z] GitHub Copilot could not connect to server. Extension activation failed: "Git error"
+2023-01-27 01:41:05.673 [error] [Extension Host] [ERROR] [default] [2023-01-27T06:41:05.579Z] GitHub Copilot could not connect to server. Extension activation failed: "Git error"
+2023-01-27 01:41:06.573 [error] Git error
+2023-01-27 01:41:15.175 [error] [Extension Host] [ERROR] [default] [2023-01-27T06:41:15.173Z] GitHub Copilot could not connect to server. Extension activation failed: "Git error"
+2023-01-27 01:41:15.195 [error] [Extension Host] [ERROR] [default] [2023-01-27T06:41:15.173Z] GitHub Copilot could not connect to server. Extension activation failed: "Git error"
+2023-01-27 01:41:15.196 [error] [Extension Host] [ERROR] [default] [2023-01-27T06:41:15.173Z] GitHub Copilot could not connect to server. Extension activation failed: "Git error"
+2023-01-27 01:41:15.196 [error] [Extension Host] [ERROR] [default] [2023-01-27T06:41:15.173Z] GitHub Copilot could not connect to server. Extension activation failed: "Git error"
+2023-01-27 01:41:16.176 [error] Git error
+2023-01-27 01:55:50.250 [error] spawn truecolor ENOENT: Error: spawn truecolor ENOENT
+    at ChildProcess._handle.onexit (node:internal/child_process:283:19)
+    at onErrorNT (node:internal/child_process:478:16)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2023-01-27 02:19:21.536 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, open '/home/shane/.config/Thundar'
+    at l (/opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:34:4023)
+    at i.Y (/opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:39:36565)
+    at i.readFile (/opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:39:31420)
+    at async y.i (/opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:39:38214)
+2023-01-27 02:19:24.159 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, open '/home/shane/.config/Thunder'
+    at l (/opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:34:4023)
+    at i.Y (/opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:39:36565)
+    at i.readFile (/opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:39:31420)
+    at async y.i (/opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:39:38214)
+2023-01-27 02:19:35.656 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, open '/home/shane/.config/Thundar'
+    at l (/opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:34:4023)
+    at i.Y (/opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:39:36565)
+    at i.readFile (/opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:39:31420)
+    at async y.i (/opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:39:38214)

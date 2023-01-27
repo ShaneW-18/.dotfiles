@@ -1,0 +1,6 @@
+2023-01-27 00:24:17.098 [info] update#setState idle
+2023-01-27 00:24:18.070 [info] Starting extension host with pid 1753 (fork() took 82 ms).
+2023-01-27 00:24:47.114 [info] update#setState checking for updates
+2023-01-27 00:24:47.194 [info] update#setState idle
+2023-01-27 00:27:54.166 [info] Waiting for extension host with pid 1753 to exit.
+2023-01-27 00:27:54.170 [info] Extension host with pid 1753 exited with code: 0, signal: null.

@@ -1,0 +1,5 @@
+2023-01-27 00:27:58.554 [info] update#setState idle
+2023-01-27 00:27:59.548 [info] Starting extension host with pid 2005 (fork() took 78 ms).
+2023-01-27 00:28:28.555 [info] update#setState checking for updates
+2023-01-27 00:28:28.634 [info] update#setState idle
+2023-01-27 01:02:30.618 [info] Extension host with pid 2005 exited with code: null, signal: SIGTERM.

@@ -1,0 +1,11 @@
+[Trace 05:29:00.896] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/shane/.dotfiles/.config/cef_user_data/WidevineCdm/4.10.2557.0/LICENSE
+[Trace 05:29:00.897] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/shane/.dotfiles/.config/cef_user_data/WidevineCdm/4.10.2557.0/LICENSE
+[Trace 05:29:00.898] Server: connection.languages.diagnostics.on: file:///home/shane/.dotfiles/.config/cef_user_data/WidevineCdm/4.10.2557.0/LICENSE
+[Trace 05:29:00.901] Server: connection.languages.diagnostics.on: file:///home/shane/.dotfiles/.config/cef_user_data/WidevineCdm/4.10.2557.0/LICENSE
+[Trace 05:29:00.906] DocumentSymbolProvider: provideDocumentSymbols — file:///home/shane/.dotfiles/.config/cef_user_data/WidevineCdm/4.10.2557.0/LICENSE 1
+[Debug 05:29:00.907] LinkProvider: compute - file:///home/shane/.dotfiles/.config/cef_user_data/WidevineCdm/4.10.2557.0/LICENSE
+[Debug 05:29:00.956] TableOfContentsProvider: create - file:///home/shane/.dotfiles/.config/cef_user_data/WidevineCdm/4.10.2557.0/LICENSE
+[Debug 05:29:01.101] MdFoldingProvider: provideFoldingRanges — file:///home/shane/.dotfiles/.config/cef_user_data/WidevineCdm/4.10.2557.0/LICENSE 1
+[Trace 05:29:07.824] VsCodeClientWorkspace: TextDocument.onDidClose: file:///home/shane/.dotfiles/.config/cef_user_data/WidevineCdm/4.10.2557.0/LICENSE
+[Trace 05:29:07.824] VsCodeClientWorkspace: deleteDocument: file:///home/shane/.dotfiles/.config/cef_user_data/WidevineCdm/4.10.2557.0/LICENSE
+[Trace 05:29:07.825] Server: connection.languages.diagnostics.on: file:///home/shane/.dotfiles/.config/cef_user_data/WidevineCdm/4.10.2557.0/LICENSE

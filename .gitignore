@@ -1,7 +1,6 @@
-# ignore everything (dirs, files, sub-dirs, sub-files)
-/*
-# but do not ignore the .gitignore file
-!.gitignore
-# but do not ignore
-!qtile
-!xfce4
+.config/xfce4
+.config/yay
+.config/discord
+.config/GIMP
+.cofig/Code
+.config/cef_user_data

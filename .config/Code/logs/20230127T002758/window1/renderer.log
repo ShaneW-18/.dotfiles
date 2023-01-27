@@ -1,0 +1,60 @@
+2023-01-27 00:28:02.143 [info] [perf] Render performance baseline is 27ms
+2023-01-27 00:35:39.826 [error] Error: Unable to move/copy '/home/shane/.dotfiles/.config/pulse' because target '/home/shane/.config/pulse' already exists at destination.
+    at h.L (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:616:20509)
+    at async h.G (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:616:18428)
+    at async i.k (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2483:63102)
+    at async vc.perform (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2489:16615)
+    at async a.apply (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2489:21499)
+    at async v.n (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2489:23574)
+    at async v.perform (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2489:23250)
+    at async m.apply (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2489:25167)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1695:34068
+2023-01-27 00:35:39.828 [error] Unable to move/copy '/home/shane/.dotfiles/.config/pulse' because target '/home/shane/.config/pulse' already exists at destination.: Error: Unable to move/copy '/home/shane/.dotfiles/.config/pulse' because target '/home/shane/.config/pulse' already exists at destination.
+    at h.L (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:616:20509)
+    at async h.G (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:616:18428)
+    at async i.k (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2483:63102)
+    at async vc.perform (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2489:16615)
+    at async a.apply (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2489:21499)
+    at async v.n (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2489:23574)
+    at async v.perform (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2489:23250)
+    at async m.apply (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2489:25167)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1695:34068
+2023-01-27 00:35:58.307 [error] [Extension Host] [ERROR] [default] [2023-01-27T05:35:58.292Z] GitHub Copilot could not connect to server. Extension activation failed: "Git error"
+2023-01-27 00:35:58.308 [error] [Extension Host] [ERROR] [default] [2023-01-27T05:35:58.293Z] GitHub Copilot could not connect to server. Extension activation failed: "Git error"
+2023-01-27 00:35:58.308 [error] [Extension Host] [ERROR] [default] [2023-01-27T05:35:58.293Z] GitHub Copilot could not connect to server. Extension activation failed: "Git error"
+2023-01-27 00:35:58.308 [error] [Extension Host] [ERROR] [default] [2023-01-27T05:35:58.293Z] GitHub Copilot could not connect to server. Extension activation failed: "Git error"
+2023-01-27 00:35:58.308 [error] [Extension Host] [ERROR] [default] [2023-01-27T05:35:58.294Z] GitHub Copilot could not connect to server. Extension activation failed: "Git error"
+2023-01-27 00:35:58.309 [error] [Extension Host] [ERROR] [default] [2023-01-27T05:35:58.294Z] GitHub Copilot could not connect to server. Extension activation failed: "Git error"
+2023-01-27 00:35:58.309 [error] [Extension Host] [ERROR] [default] [2023-01-27T05:35:58.295Z] GitHub Copilot could not connect to server. Extension activation failed: "Git error"
+2023-01-27 00:35:58.309 [error] [Extension Host] [ERROR] [default] [2023-01-27T05:35:58.295Z] GitHub Copilot could not connect to server. Extension activation failed: "Git error"
+2023-01-27 00:35:58.309 [error] [Extension Host] [ERROR] [default] [2023-01-27T05:35:58.295Z] GitHub Copilot could not connect to server. Extension activation failed: "Git error"
+2023-01-27 00:35:58.310 [error] [Extension Host] [ERROR] [default] [2023-01-27T05:35:58.295Z] GitHub Copilot could not connect to server. Extension activation failed: "Git error"
+2023-01-27 00:35:58.310 [error] [Extension Host] [ERROR] [default] [2023-01-27T05:35:58.296Z] GitHub Copilot could not connect to server. Extension activation failed: "Git error"
+2023-01-27 00:35:58.310 [error] [Extension Host] [ERROR] [default] [2023-01-27T05:35:58.296Z] GitHub Copilot could not connect to server. Extension activation failed: "Git error"
+2023-01-27 00:35:58.311 [error] [Extension Host] [ERROR] [default] [2023-01-27T05:35:58.296Z] GitHub Copilot could not connect to server. Extension activation failed: "Git error"
+2023-01-27 00:35:58.311 [error] [Extension Host] [ERROR] [default] [2023-01-27T05:35:58.296Z] GitHub Copilot could not connect to server. Extension activation failed: "Git error"
+2023-01-27 00:35:58.311 [error] [Extension Host] [ERROR] [default] [2023-01-27T05:35:58.296Z] GitHub Copilot could not connect to server. Extension activation failed: "Git error"
+2023-01-27 00:35:58.311 [error] [Extension Host] [ERROR] [default] [2023-01-27T05:35:58.297Z] GitHub Copilot could not connect to server. Extension activation failed: "Git error"
+2023-01-27 00:35:58.311 [error] [Extension Host] [ERROR] [default] [2023-01-27T05:35:58.297Z] GitHub Copilot could not connect to server. Extension activation failed: "Git error"
+2023-01-27 00:35:58.312 [error] [Extension Host] [ERROR] [default] [2023-01-27T05:35:58.297Z] GitHub Copilot could not connect to server. Extension activation failed: "Git error"
+2023-01-27 00:35:58.312 [error] [Extension Host] [ERROR] [default] [2023-01-27T05:35:58.297Z] GitHub Copilot could not connect to server. Extension activation failed: "Git error"
+2023-01-27 00:35:58.312 [error] [Extension Host] [ERROR] [default] [2023-01-27T05:35:58.297Z] GitHub Copilot could not connect to server. Extension activation failed: "Git error"
+2023-01-27 00:35:59.289 [error] Git error
+2023-01-27 00:36:00.990 [error] [Extension Host] [ERROR] [default] [2023-01-27T05:36:00.986Z] GitHub Copilot could not connect to server. Extension activation failed: "Git error"
+2023-01-27 00:36:00.990 [error] [Extension Host] [ERROR] [default] [2023-01-27T05:36:00.987Z] GitHub Copilot could not connect to server. Extension activation failed: "Git error"
+2023-01-27 00:36:00.990 [error] [Extension Host] [ERROR] [default] [2023-01-27T05:36:00.987Z] GitHub Copilot could not connect to server. Extension activation failed: "Git error"
+2023-01-27 00:36:00.991 [error] [Extension Host] [ERROR] [default] [2023-01-27T05:36:00.987Z] GitHub Copilot could not connect to server. Extension activation failed: "Git error"
+2023-01-27 00:36:00.991 [error] [Extension Host] [ERROR] [default] [2023-01-27T05:36:00.988Z] GitHub Copilot could not connect to server. Extension activation failed: "Git error"
+2023-01-27 00:36:00.991 [error] [Extension Host] [ERROR] [default] [2023-01-27T05:36:00.988Z] GitHub Copilot could not connect to server. Extension activation failed: "Git error"
+2023-01-27 00:36:00.991 [error] [Extension Host] [ERROR] [default] [2023-01-27T05:36:00.988Z] GitHub Copilot could not connect to server. Extension activation failed: "Git error"
+2023-01-27 00:36:00.992 [error] [Extension Host] [ERROR] [default] [2023-01-27T05:36:00.988Z] GitHub Copilot could not connect to server. Extension activation failed: "Git error"
+2023-01-27 00:36:01.989 [error] Git error
+2023-01-27 00:45:14.661 [error] [Extension Host] [ERROR] [default] [2023-01-27T05:45:14.590Z] GitHub Copilot could not connect to server. Extension activation failed: "Git error"
+2023-01-27 00:45:14.661 [error] [Extension Host] [ERROR] [default] [2023-01-27T05:45:14.591Z] GitHub Copilot could not connect to server. Extension activation failed: "Git error"
+2023-01-27 00:45:14.662 [error] [Extension Host] [ERROR] [default] [2023-01-27T05:45:14.591Z] GitHub Copilot could not connect to server. Extension activation failed: "Git error"
+2023-01-27 00:45:14.662 [error] [Extension Host] [ERROR] [default] [2023-01-27T05:45:14.591Z] GitHub Copilot could not connect to server. Extension activation failed: "Git error"
+2023-01-27 00:45:14.662 [error] [Extension Host] [ERROR] [default] [2023-01-27T05:45:14.592Z] GitHub Copilot could not connect to server. Extension activation failed: "Git error"
+2023-01-27 00:45:14.663 [error] [Extension Host] [ERROR] [default] [2023-01-27T05:45:14.592Z] GitHub Copilot could not connect to server. Extension activation failed: "Git error"
+2023-01-27 00:45:14.663 [error] [Extension Host] [ERROR] [default] [2023-01-27T05:45:14.592Z] GitHub Copilot could not connect to server. Extension activation failed: "Git error"
+2023-01-27 00:45:14.663 [error] [Extension Host] [ERROR] [default] [2023-01-27T05:45:14.592Z] GitHub Copilot could not connect to server. Extension activation failed: "Git error"
+2023-01-27 00:45:15.592 [error] Git error
